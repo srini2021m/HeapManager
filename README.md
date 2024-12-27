@@ -1,1 +1,1 @@
-# HeapManager
+This project was created in Spring 2024 as an independent course-based research project. It contains code for a heap manager in a simulated operating systems, implementing the general memory allocation operations in code. 
